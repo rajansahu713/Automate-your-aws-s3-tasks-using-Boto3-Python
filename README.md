@@ -1,4 +1,4 @@
-Automate your day to day AWS S3 tasks using Boto3 Python.
+<h1 align="center">Automate your day to day AWS S3 tasks using Boto3 Python.</h1>
 
 Requirements:
 ```bash
